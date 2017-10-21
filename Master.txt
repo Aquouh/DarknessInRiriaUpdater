@@ -1,1 +1,6 @@
 
+<Version 1.01>
+/js/plugins/SRD_GameUpgrade.js https://github.com/Aquouh/DarknessInRiriaUpdater/blob/master/SRD_GameUpgrade.js
+/js/plugins/SRD_Confirmation.js https://github.com/Aquouh/DarknessInRiriaUpdater/blob/master/SRD_QuitConfirmation.js
+/js/plugins/SRD_WindowUpgrade.js https://github.com/Aquouh/DarknessInRiriaUpdater/blob/master/SRD_WindowUpgrade.js
+<End of Version>
