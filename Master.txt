@@ -1,6 +1,9 @@
 
-<Version: 1.01>
+<Version: 1.02>
 /js/plugins/SRD_GameUpgrade.js https://raw.githubusercontent.com/Aquouh/DarknessInRiriaUpdater/master/SRD_GameUpgrade.js
 /js/plugins/SRD_Confirmation.js https://raw.githubusercontent.com/Aquouh/DarknessInRiriaUpdater/master/SRD_QuitConfirmation.js
 /js/plugins/SRD_WindowUpgrade.js https://raw.githubusercontent.com/Aquouh/DarknessInRiriaUpdater/master/SRD_WindowUpgrade.js
+/data/Map005.json https://raw.githubusercontent.com/Aquouh/DarknessInRiriaUpdater/master/Map005.json
+/data/Map006.json https://raw.githubusercontent.com/Aquouh/DarknessInRiriaUpdater/master/Map006.json
+/data/Map008.json https://raw.githubusercontent.com/Aquouh/DarknessInRiriaUpdater/master/Map008.json
 <End of Version>
